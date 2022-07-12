@@ -24,9 +24,9 @@
 ### Tecnologías usadas
 
 El curso, sus ejemplos y proyectos propuestos están desarrollados en Python.
-Recomendamos el uso de VSCode como editor de código.
+Recomendamos el uso de Jupyter Notebook como editor de código.
 
-* [VS Code](https://code.visualstudio.com)
+* [Jupyter Notebook](https://jupyter.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
